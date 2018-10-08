@@ -1,0 +1,1911 @@
+Last login: Mon Oct  8 08:04:55 on ttys000
+wldeMacBook-Pro:~ wlniu$ ssh pi@192.168.1.104
+pi@192.168.1.104's password: 
+Linux raspberrypi-kompline 4.14.50-v7+ #1122 SMP Tue Jun 19 12:26:26 BST 2018 armv7l
+
+The programs included with the Debian GNU/Linux system are free software;
+the exact distribution terms for each program are described in the
+individual files in /usr/share/doc/*/copyright.
+
+Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent
+permitted by applicable law.
+Last login: Mon Oct  8 00:35:01 2018
+pi@raspberrypi-kompline:~ $ cd yinghualu/
+pi@raspberrypi-kompline:~/yinghualu $ python3 act.py 
+act.py:59: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(pdt, GPIO.IN)
+act.py:60: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(psck, GPIO.OUT, initial=0)
+dv [8388607, -5946]
+0
+pi@raspberrypi-kompline:~/yinghualu $ python3 act.py 
+act.py:60: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(psck, GPIO.OUT, initial=0)
+dv [-8388608, -5849]
+act.py:101: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup([21, 20, 16],GPIO.OUT)
+0
+pi@raspberrypi-kompline:~/yinghualu $ python3 act.py 
+act.py:60: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(psck, GPIO.OUT, initial=0)
+dv [19367, 135]
+act.py:101: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup([21, 20, 16],GPIO.OUT)
+0
+pi@raspberrypi-kompline:~/yinghualu $ python3 act.py 
+act.py:60: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(psck, GPIO.OUT, initial=0)
+dv [19355, 1]
+act.py:101: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup([21, 20, 16],GPIO.OUT)
+0
+pi@raspberrypi-kompline:~/yinghualu $ python3 act.py 
+act.py:60: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(psck, GPIO.OUT, initial=0)
+dv [19400, -333]
+act.py:101: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup([21, 20, 16],GPIO.OUT)
+0
+pi@raspberrypi-kompline:~/yinghualu $ python3 act.py 
+act.py:60: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(psck, GPIO.OUT, initial=0)
+dv [19391, -164]
+act.py:101: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup([21, 20, 16],GPIO.OUT)
+0
+pi@raspberrypi-kompline:~/yinghualu $ python3 act.py 
+act.py:60: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(psck, GPIO.OUT, initial=0)
+dv [19330, 63]
+act.py:101: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup([21, 20, 16],GPIO.OUT)
+0
+pi@raspberrypi-kompline:~/yinghualu $ python3 act.py 
+act.py:60: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(psck, GPIO.OUT, initial=0)
+dv [19317, 138]
+act.py:101: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup([21, 20, 16],GPIO.OUT)
+0
+pi@raspberrypi-kompline:~/yinghualu $ python3 act.py 
+act.py:60: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(psck, GPIO.OUT, initial=0)
+dv [19343, -135]
+act.py:101: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup([21, 20, 16],GPIO.OUT)
+0
+pi@raspberrypi-kompline:~/yinghualu $ python3 act.py 
+act.py:60: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(psck, GPIO.OUT, initial=0)
+dv [19237, 109]
+act.py:101: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup([21, 20, 16],GPIO.OUT)
+0
+pi@raspberrypi-kompline:~/yinghualu $ python3 act.py 
+act.py:60: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(psck, GPIO.OUT, initial=0)
+dv [19396, 644]
+act.py:101: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup([21, 20, 16],GPIO.OUT)
+0
+pi@raspberrypi-kompline:~/yinghualu $ python3 act.py 
+act.py:60: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(psck, GPIO.OUT, initial=0)
+dv [19542, 127]
+act.py:101: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup([21, 20, 16],GPIO.OUT)
+0
+pi@raspberrypi-kompline:~/yinghualu $ python3 act.py 
+act.py:60: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(psck, GPIO.OUT, initial=0)
+dv [19533, 44]
+act.py:101: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup([21, 20, 16],GPIO.OUT)
+0
+pi@raspberrypi-kompline:~/yinghualu $ python3 act.py 
+act.py:60: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(psck, GPIO.OUT, initial=0)
+dv [19421, -141]
+act.py:101: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup([21, 20, 16],GPIO.OUT)
+0
+pi@raspberrypi-kompline:~/yinghualu $ python3 act.py 
+act.py:60: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(psck, GPIO.OUT, initial=0)
+dv [19538, -16]
+act.py:101: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup([21, 20, 16],GPIO.OUT)
+0
+pi@raspberrypi-kompline:~/yinghualu $ python3 act.py 
+act.py:60: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(psck, GPIO.OUT, initial=0)
+dv [19467, 11]
+act.py:101: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup([21, 20, 16],GPIO.OUT)
+0
+pi@raspberrypi-kompline:~/yinghualu $ python3 act.py 
+act.py:60: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(psck, GPIO.OUT, initial=0)
+dv [19638, 343]
+act.py:101: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup([21, 20, 16],GPIO.OUT)
+0
+pi@raspberrypi-kompline:~/yinghualu $ python3 act.py 
+act.py:60: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(psck, GPIO.OUT, initial=0)
+dv [18102, -299]
+act.py:101: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup([21, 20, 16],GPIO.OUT)
+0
+pi@raspberrypi-kompline:~/yinghualu $ python3 act.py 
+act.py:60: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(psck, GPIO.OUT, initial=0)
+dv [19869, 13]
+act.py:101: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup([21, 20, 16],GPIO.OUT)
+0
+pi@raspberrypi-kompline:~/yinghualu $ python3 act.py 
+act.py:60: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(psck, GPIO.OUT, initial=0)
+dv [19027, -156]
+act.py:101: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup([21, 20, 16],GPIO.OUT)
+0
+pi@raspberrypi-kompline:~/yinghualu $ python3 act.py 
+act.py:60: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(psck, GPIO.OUT, initial=0)
+dv [19038, 19]
+act.py:101: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup([21, 20, 16],GPIO.OUT)
+0
+pi@raspberrypi-kompline:~/yinghualu $ python3 act.py 
+act.py:60: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(psck, GPIO.OUT, initial=0)
+dv [19103, 0]
+act.py:101: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup([21, 20, 16],GPIO.OUT)
+0
+pi@raspberrypi-kompline:~/yinghualu $ python3 act.py 
+act.py:60: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(psck, GPIO.OUT, initial=0)
+dv [19064, 83]
+act.py:101: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup([21, 20, 16],GPIO.OUT)
+0
+pi@raspberrypi-kompline:~/yinghualu $ python3 act.py 
+act.py:60: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(psck, GPIO.OUT, initial=0)
+dv [19037, -180]
+act.py:101: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup([21, 20, 16],GPIO.OUT)
+0
+pi@raspberrypi-kompline:~/yinghualu $ python3 act.py 
+act.py:60: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(psck, GPIO.OUT, initial=0)
+dv [19081, 443]
+act.py:101: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup([21, 20, 16],GPIO.OUT)
+0
+pi@raspberrypi-kompline:~/yinghualu $ python3 act.py 
+act.py:60: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(psck, GPIO.OUT, initial=0)
+dv [19002, -630]
+act.py:101: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup([21, 20, 16],GPIO.OUT)
+0
+pi@raspberrypi-kompline:~/yinghualu $ python3 act.py 
+act.py:60: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(psck, GPIO.OUT, initial=0)
+dv [19025, -61]
+act.py:101: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup([21, 20, 16],GPIO.OUT)
+0
+pi@raspberrypi-kompline:~/yinghualu $ python3 act.py 
+act.py:60: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(psck, GPIO.OUT, initial=0)
+dv [19027, -177]
+act.py:101: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup([21, 20, 16],GPIO.OUT)
+0
+^[[Api@raspberrypi-kompline:~/yinghualu $ python3 act.py 
+act.py:60: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(psck, GPIO.OUT, initial=0)
+dv [19210, -66]
+act.py:101: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup([21, 20, 16],GPIO.OUT)
+0
+pi@raspberrypi-kompline:~/yinghualu $ python3 act.py 
+act.py:60: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(psck, GPIO.OUT, initial=0)
+dv [19074, -1507]
+act.py:101: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup([21, 20, 16],GPIO.OUT)
+0
+pi@raspberrypi-kompline:~/yinghualu $ python3 act.py 
+act.py:60: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(psck, GPIO.OUT, initial=0)
+dv [18535, -19]
+act.py:101: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup([21, 20, 16],GPIO.OUT)
+0
+pi@raspberrypi-kompline:~/yinghualu $ python3 act.py 
+act.py:60: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(psck, GPIO.OUT, initial=0)
+dv [18480, -535]
+act.py:101: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup([21, 20, 16],GPIO.OUT)
+0
+pi@raspberrypi-kompline:~/yinghualu $ python3 act.py 
+act.py:60: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(psck, GPIO.OUT, initial=0)
+dv [18575, -263]
+act.py:101: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup([21, 20, 16],GPIO.OUT)
+0
+pi@raspberrypi-kompline:~/yinghualu $ python3 act.py 
+act.py:60: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(psck, GPIO.OUT, initial=0)
+dv [18405, -735]
+act.py:101: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup([21, 20, 16],GPIO.OUT)
+0
+pi@raspberrypi-kompline:~/yinghualu $ emacs act.py 
+pi@raspberrypi-kompline:~/yinghualu $ python3 act.py 
+act.py:60: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(psck, GPIO.OUT, initial=0)
+dv [18386, -453]
+dv [18400, -307]
+dv [18350, -471]
+dv [18440, -318]
+dv [18354, -309]
+dv [18402, -526]
+dv [18440, -472]
+dv [18538, -419]
+dv [18410, -417]
+dv [18502, -545]
+dv [18574, -596]
+dv [18436, -509]
+dv [18516, -648]
+dv [18482, -581]
+dv [18469, -376]
+dv [18411, -575]
+dv [18471, -454]
+dv [18395, -517]
+dv [18392, -464]
+dv [18329, -636]
+dv [18395, -632]
+dv [18333, -464]
+dv [18400, -588]
+dv [18454, -545]
+dv [18405, -599]
+dv [18497, -379]
+dv [18497, -538]
+dv [18504, -581]
+dv [18418, -472]
+dv [18371, -579]
+dv [18359, -533]
+dv [18503, -390]
+dv [18406, -386]
+dv [18465, -489]
+dv [18349, -689]
+dv [18426, -335]
+dv [18325, -590]
+dv [18513, -1336]
+dv [42127, -271]
+dv [18601, -297]
+dv [8388607, -4849]
+dv [18584, -2973]
+dv [18465, -2140]
+dv [18404, -107]
+dv [18508, -1286]
+dv [18373, -928]
+dv [18465, -958]
+dv [18428, -2415]
+dv [18513, -4371]
+dv [18452, -5134]
+act.py:105: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup([21, 20, 16],GPIO.OUT)
+0
+pi@raspberrypi-kompline:~/yinghualu $ python3 act.py 
+act.py:60: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(psck, GPIO.OUT, initial=0)
+dv [18452, 1125]
+dv [18406, 950]
+dv [18556, 821]
+dv [18644, 710]
+dv [18728, 713]
+dv [18681, 632]
+dv [8388607, 617]
+dv [18530, 1345]
+dv [93247, 3810]
+dv [18683, 2264]
+dv [18953, 2800]
+dv [18556, 2114]
+dv [18635, 2159]
+dv [18513, 2075]
+dv [18570, 2008]
+dv [18661, 1599]
+dv [18594, 1427]
+dv [18681, 1364]
+dv [18533, 1001]
+dv [18632, 846]
+dv [8388607, -1472]
+dv [18570, -2193]
+dv [8388607, -3140]
+dv [8388607, -1111]
+dv [8388607, 1118]
+dv [8388607, -3826]
+dv [8388607, -534]
+dv [8388607, -4957]
+dv [8388607, -4471]
+dv [8388607, -4407]
+dv [8388607, -3441]
+dv [95620, -2548]
+dv [18498, -1852]
+dv [18518, -1357]
+dv [18557, -1006]
+dv [18555, -752]
+dv [18702, -673]
+dv [18539, -224]
+dv [18549, -77]
+dv [8388607, 123]
+dv [8388607, 231]
+dv [8388607, 156]
+dv [8388607, -281]
+dv [8388607, -36]
+dv [8388607, -4104]
+dv [8388607, 1192]
+dv [8388607, 3708]
+dv [8388607, 3866]
+dv [18606, 3731]
+dv [8388607, 3333]
+act.py:105: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup([21, 20, 16],GPIO.OUT)
+0
+pi@raspberrypi-kompline:~/yinghualu $ python3 act.py 
+act.py:60: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(psck, GPIO.OUT, initial=0)
+dv [8388607, 1376]
+dv [8388607, 1280]
+dv [8388607, 1297]
+dv [8388607, 984]
+dv [8388607, -3384]
+dv [8388607, -4053]
+dv [8388607, -1813]
+dv [18564, 699]
+dv [18471, 1943]
+dv [125038, 2350]
+dv [18392, 2898]
+dv [18595, 2803]
+dv [18107, 3615]
+dv [1641619, 7111]
+dv [18437, 4383]
+dv [8388607, -1312]
+dv [18640, 226]
+dv [18661, -286]
+dv [18706, 849]
+dv [18868, 1074]
+dv [19056, 1293]
+dv [19022, 1701]
+dv [18993, 1583]
+dv [19009, 1611]
+dv [19060, 1618]
+dv [18573, 1541]
+dv [18596, 1844]
+dv [18762, 1307]
+dv [18521, 1401]
+dv [18591, 1166]
+dv [18578, 1035]
+dv [18421, 993]
+dv [18444, 1124]
+dv [18501, 159]
+dv [18530, 557]
+dv [18533, 699]
+dv [18449, 471]
+dv [18489, 816]
+dv [18489, 975]
+dv [18528, 905]
+dv [18547, 296]
+dv [18419, 288]
+dv [18399, 319]
+dv [18471, 139]
+dv [18569, 351]
+dv [18417, 258]
+dv [18347, 210]
+dv [18453, 310]
+dv [18455, 207]
+dv [18509, 279]
+act.py:105: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup([21, 20, 16],GPIO.OUT)
+0
+pi@raspberrypi-kompline:~/yinghualu $ python3 act.py 
+act.py:60: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(psck, GPIO.OUT, initial=0)
+dv [18466, 285]
+dv [18498, 592]
+dv [18368, 789]
+dv [18441, 111]
+dv [18424, -289]
+dv [18422, -381]
+dv [18477, -405]
+dv [18476, -477]
+dv [18532, -323]
+dv [18522, -221]
+dv [18496, -135]
+dv [18489, -258]
+dv [18686, -136]
+dv [18418, -413]
+dv [18501, -402]
+dv [18490, -444]
+dv [18527, -553]
+dv [18501, -499]
+dv [18422, -341]
+dv [18441, -347]
+dv [18482, -332]
+dv [18565, -262]
+dv [18472, -321]
+dv [18372, -390]
+dv [18596, -393]
+dv [18456, -391]
+dv [18511, -371]
+dv [18417, 471]
+dv [8388607, 185]
+dv [8388607, -20]
+dv [8388607, -301]
+dv [8388607, -271]
+dv [8388607, -392]
+dv [8388607, -411]
+dv [3114306, -1047]
+dv [18517, -772]
+dv [18566, -499]
+dv [18476, -401]
+dv [18477, -515]
+dv [18531, 459]
+dv [18427, 1438]
+dv [18463, 1248]
+dv [18583, 1160]
+dv [18530, 718]
+dv [18490, 754]
+dv [18495, 689]
+dv [18499, 306]
+dv [18497, 25]
+dv [18500, -113]
+dv [18379, -168]
+act.py:105: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup([21, 20, 16],GPIO.OUT)
+0
+pi@raspberrypi-kompline:~/yinghualu $ python3 act.py 
+act.py:60: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(psck, GPIO.OUT, initial=0)
+dv [18480, -478]
+dv [18533, -505]
+dv [18533, -506]
+dv [18493, -649]
+dv [18571, -558]
+dv [18446, -535]
+dv [18371, -265]
+dv [18416, -459]
+dv [18516, -186]
+dv [18382, -358]
+dv [18500, -449]
+dv [18430, -2870]
+dv [18571, -5002]
+dv [18478, -4498]
+dv [18453, -3331]
+dv [2318406, -2602]
+dv [8388607, -2169]
+dv [18606, -1505]
+dv [19377, -152]
+dv [18462, -2]
+dv [18790, 61]
+dv [18444, -313]
+dv [18478, -340]
+dv [18454, -94]
+dv [18341, -339]
+dv [18454, -359]
+dv [18529, -346]
+dv [18539, -586]
+dv [18614, -692]
+dv [18487, 2328]
+dv [18493, 1376]
+dv [18515, 799]
+dv [18646, 1247]
+dv [18577, 909]
+dv [18523, 577]
+dv [1048575, 1048575]
+dv [18595, 262]
+dv [18510, 21]
+dv [18478, -46]
+dv [18554, -247]
+dv [18557, -287]
+dv [18531, -471]
+dv [18571, -483]
+dv [18661, -472]
+dv [18470, -439]
+dv [18496, -427]
+dv [18528, -482]
+dv [18495, -553]
+dv [18397, -357]
+dv [18589, -427]
+act.py:105: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup([21, 20, 16],GPIO.OUT)
+0
+pi@raspberrypi-kompline:~/yinghualu $ python3 act.py 
+act.py:60: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(psck, GPIO.OUT, initial=0)
+dv [18446, -140]
+dv [18555, -36]
+dv [18512, -72]
+dv [18379, 36]
+dv [18492, -194]
+dv [18592, -86]
+dv [18462, -305]
+dv [18525, -269]
+dv [18571, -93]
+dv [18519, -101]
+dv [18503, -116]
+dv [18478, -276]
+dv [18423, -363]
+dv [18480, -227]
+dv [18493, -358]
+dv [18535, -217]
+dv [18560, -196]
+dv [18414, -526]
+dv [18590, -1041]
+dv [18539, -628]
+dv [18568, -484]
+dv [18490, -324]
+dv [18547, -465]
+dv [18512, -242]
+dv [18434, -237]
+dv [18518, -395]
+dv [18471, -410]
+dv [18423, -385]
+dv [18360, -288]
+dv [18476, -474]
+dv [18563, -364]
+dv [18624, -466]
+dv [18405, -686]
+dv [18419, -1394]
+dv [18498, -850]
+dv [18400, -643]
+dv [18524, -434]
+dv [18527, -766]
+dv [18490, -591]
+dv [18566, -648]
+dv [18471, -446]
+dv [18565, -580]
+dv [18412, -401]
+dv [18553, -626]
+dv [18565, -566]
+dv [18551, -543]
+dv [18613, -687]
+dv [18451, -607]
+dv [18429, -452]
+dv [18520, -558]
+act.py:105: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup([21, 20, 16],GPIO.OUT)
+0
+pi@raspberrypi-kompline:~/yinghualu $ python3 act.py 
+act.py:60: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(psck, GPIO.OUT, initial=0)
+dv [18371, -138]
+dv [18461, -32]
+dv [18565, 60]
+dv [18495, -135]
+dv [18458, -83]
+dv [18486, -65]
+dv [18529, -78]
+dv [18501, -289]
+dv [18491, -156]
+dv [18533, -410]
+dv [18443, -342]
+dv [18442, -312]
+dv [18394, -341]
+dv [18517, -306]
+dv [18537, -166]
+dv [18492, -286]
+dv [18414, -288]
+dv [18381, -251]
+dv [18387, -440]
+dv [18569, -150]
+dv [18587, -215]
+dv [18466, -277]
+dv [18456, -309]
+dv [18510, -384]
+dv [18485, -362]
+dv [18381, -396]
+dv [18493, -547]
+dv [18368, -376]
+dv [18496, -376]
+dv [18571, -286]
+dv [18453, -298]
+dv [18331, -348]
+dv [18477, -513]
+dv [18397, -320]
+dv [18458, -451]
+dv [18380, -247]
+dv [18471, -279]
+dv [18473, -400]
+dv [18457, -373]
+dv [18548, 90]
+dv [18447, -279]
+dv [18379, -91]
+dv [18511, -290]
+dv [18443, -453]
+dv [18501, -752]
+dv [18495, -569]
+dv [18483, -803]
+dv [18526, -860]
+dv [18398, -665]
+dv [18599, -610]
+act.py:105: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup([21, 20, 16],GPIO.OUT)
+0
+pi@raspberrypi-kompline:~/yinghualu $ python3 act.py 
+act.py:60: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(psck, GPIO.OUT, initial=0)
+dv [18390, 0]
+dv [18443, -42]
+dv [18433, -172]
+dv [18443, -91]
+dv [18376, -122]
+dv [18343, -70]
+dv [18446, -172]
+dv [18414, -247]
+dv [18439, -190]
+dv [18446, -117]
+dv [18491, -285]
+dv [18476, -256]
+dv [18437, -308]
+dv [18459, -263]
+dv [18389, -278]
+dv [18421, -431]
+dv [18381, -479]
+dv [18441, -323]
+dv [18384, -660]
+dv [18465, -468]
+dv [18385, -531]
+dv [18344, -433]
+dv [18456, -431]
+dv [18495, -427]
+dv [18438, -450]
+dv [18359, -517]
+dv [18476, -385]
+dv [18524, -1357]
+dv [18414, -5877]
+dv [18409, -3920]
+dv [18465, -2899]
+dv [18412, 310]
+dv [18386, 1600]
+dv [18399, 2372]
+dv [18398, 2543]
+dv [18304, 2803]
+dv [18442, 2772]
+dv [18362, 2853]
+dv [18318, 2606]
+dv [18377, 2476]
+dv [18439, 2277]
+dv [18392, 2672]
+dv [18362, 2019]
+dv [18431, 1728]
+dv [18422, 1605]
+dv [18316, 1580]
+dv [18430, 1443]
+dv [18511, 1378]
+dv [18302, 1165]
+dv [18422, 1090]
+act.py:105: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup([21, 20, 16],GPIO.OUT)
+0
+pi@raspberrypi-kompline:~/yinghualu $ python3 act.py 
+act.py:60: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(psck, GPIO.OUT, initial=0)
+dv [18478, -228]
+dv [18316, -501]
+dv [18481, -361]
+dv [18419, -325]
+dv [18406, -200]
+dv [18458, 110]
+dv [18355, 279]
+dv [18461, -163]
+dv [18434, -447]
+dv [18405, -188]
+dv [18492, -193]
+dv [18468, -256]
+dv [18410, -452]
+dv [18312, 149]
+dv [18420, 46]
+dv [18424, -396]
+dv [18378, -469]
+dv [18388, -413]
+dv [18527, -271]
+dv [18464, -331]
+dv [18515, -429]
+dv [18373, -379]
+dv [18416, -397]
+dv [18484, -428]
+dv [18410, -276]
+dv [18464, -499]
+dv [18385, -335]
+dv [18382, -402]
+dv [18498, -362]
+dv [18356, -409]
+dv [18458, -471]
+dv [18421, -429]
+dv [18378, -507]
+dv [18382, -630]
+dv [18473, -597]
+dv [18385, -446]
+dv [18408, -246]
+dv [18492, -298]
+dv [18405, -286]
+dv [18337, -316]
+dv [18331, -299]
+dv [18267, -376]
+dv [18341, -227]
+dv [18323, -401]
+dv [18487, -418]
+dv [18321, -315]
+dv [18373, -272]
+dv [18447, -455]
+dv [18391, -530]
+dv [18359, -429]
+act.py:105: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup([21, 20, 16],GPIO.OUT)
+0
+pi@raspberrypi-kompline:~/yinghualu $ python3 act.py 
+act.py:60: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(psck, GPIO.OUT, initial=0)
+dv [18439, -354]
+dv [18454, -573]
+dv [18417, -525]
+dv [18424, -632]
+dv [18474, -508]
+dv [18436, -466]
+dv [18462, -552]
+dv [18327, -598]
+dv [18362, -635]
+dv [18341, -595]
+dv [18446, -622]
+dv [18372, -634]
+dv [18432, -634]
+dv [18417, -635]
+dv [18324, -398]
+dv [18433, -537]
+dv [18363, -804]
+dv [18400, -599]
+dv [18364, -562]
+dv [18433, -587]
+dv [18445, -425]
+dv [18414, -430]
+dv [18403, -548]
+dv [18384, -592]
+dv [18481, -486]
+dv [18399, -635]
+dv [18484, -725]
+dv [18408, -619]
+dv [18342, -610]
+dv [18434, -694]
+dv [18455, -662]
+dv [18330, -560]
+dv [18341, -728]
+dv [18286, -531]
+dv [18443, -696]
+dv [18321, -439]
+dv [18398, -570]
+dv [18324, -635]
+dv [18383, -658]
+dv [18342, -628]
+dv [18337, -706]
+dv [18410, -595]
+dv [18355, -679]
+dv [18453, -717]
+dv [18368, -664]
+dv [18391, -698]
+dv [18366, -624]
+dv [18362, -760]
+dv [18366, -722]
+dv [18510, -767]
+act.py:105: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup([21, 20, 16],GPIO.OUT)
+0
+pi@raspberrypi-kompline:~/yinghualu $ packet_write_wait: Connection to 192.168.1.104 port 22: Broken pipe
+wldeMacBook-Pro:~ wlniu$ ssh pi@192.168.1.104
+pi@192.168.1.104's password: 
+Linux raspberrypi-kompline 4.14.50-v7+ #1122 SMP Tue Jun 19 12:26:26 BST 2018 armv7l
+
+The programs included with the Debian GNU/Linux system are free software;
+the exact distribution terms for each program are described in the
+individual files in /usr/share/doc/*/copyright.
+
+Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent
+permitted by applicable law.
+Last login: Mon Oct  8 00:35:06 2018 from 192.168.1.100
+pi@raspberrypi-kompline:~ $ cd yinghualu/
+pi@raspberrypi-kompline:~/yinghualu $ python3 act.py 
+act.py:60: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(psck, GPIO.OUT, initial=0)
+dv [18265, -458]
+dv [18324, -527]
+dv [18354, -350]
+dv [18301, -512]
+dv [18204, -567]
+dv [18298, -541]
+dv [18495, -432]
+dv [18539, -392]
+dv [18450, -270]
+dv [18464, -429]
+dv [18262, -357]
+dv [18426, -367]
+dv [18230, -386]
+dv [18389, -269]
+dv [18343, -69]
+dv [18320, -196]
+dv [18253, -371]
+dv [18345, -518]
+dv [18246, -298]
+dv [18323, -223]
+dv [18346, -279]
+dv [18341, -486]
+dv [18211, -401]
+dv [18372, -398]
+dv [18353, -333]
+dv [18333, -304]
+dv [18329, -183]
+dv [18363, -388]
+dv [18331, -393]
+dv [18425, -216]
+dv [18364, -315]
+dv [18272, -224]
+dv [18238, -408]
+dv [18421, -440]
+dv [18392, -375]
+dv [18321, -412]
+dv [18270, -290]
+dv [18284, -243]
+dv [18423, -302]
+dv [18344, -203]
+dv [18306, -270]
+dv [18445, -256]
+dv [18573, -311]
+dv [18352, -306]
+dv [18378, -261]
+dv [18414, -145]
+dv [18334, -456]
+dv [18449, -324]
+dv [18303, -180]
+dv [18312, -301]
+act.py:105: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup([21, 20, 16],GPIO.OUT)
+0
+pi@raspberrypi-kompline:~/yinghualu $ python3 act.py 
+act.py:60: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(psck, GPIO.OUT, initial=0)
+dv [8388607, -523]
+dv [8388607, -634]
+dv [8388607, -506]
+dv [8388607, -552]
+dv [8388607, -348]
+dv [8388607, -301]
+dv [8388607, -169]
+dv [8388607, -358]
+dv [8388607, -244]
+dv [8388607, -240]
+dv [8388607, -396]
+dv [8388607, -262]
+dv [8388607, -336]
+dv [8388607, -2235]
+dv [8388607, -1532]
+dv [8388607, -1505]
+dv [8388607, -3372]
+dv [8388607, -3007]
+dv [8388607, -368]
+dv [8388607, -182]
+dv [8388607, 53]
+dv [8388607, 26]
+dv [203667, 137]
+dv [18850, 201]
+dv [18757, -7]
+dv [18915, -99]
+dv [18932, -212]
+dv [18910, -200]
+dv [18847, -308]
+dv [18951, -293]
+dv [18781, -432]
+dv [18940, -574]
+dv [18805, -727]
+dv [18888, -535]
+dv [18802, -373]
+dv [18761, -671]
+dv [18684, -637]
+dv [18855, -683]
+dv [18745, -580]
+dv [18810, -321]
+dv [18748, -294]
+dv [18688, -386]
+dv [18628, -334]
+dv [18907, -261]
+dv [18778, -353]
+dv [18817, -201]
+dv [18785, -200]
+dv [18888, -210]
+dv [18833, -255]
+dv [18830, -215]
+act.py:105: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup([21, 20, 16],GPIO.OUT)
+0
+pi@raspberrypi-kompline:~/yinghualu $ python3 act.py 
+act.py:60: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(psck, GPIO.OUT, initial=0)
+dv [18866, -75]
+dv [18798, -125]
+dv [18748, -179]
+dv [18818, -270]
+dv [18868, -158]
+dv [18779, -189]
+dv [19012, -460]
+dv [18766, -640]
+dv [18904, -481]
+dv [18858, -559]
+dv [18755, -568]
+dv [18928, -371]
+dv [18728, -353]
+dv [18940, -267]
+dv [18848, -400]
+dv [18835, -316]
+dv [18809, -347]
+dv [18884, -346]
+dv [18811, -299]
+dv [18773, -152]
+dv [18800, -71]
+dv [17812, -26]
+dv [20535, 139]
+dv [19394, 208]
+dv [18924, -84]
+dv [18861, 159]
+dv [18852, 57]
+dv [18829, 146]
+dv [18927, 159]
+dv [18893, 131]
+dv [18526, -239]
+dv [18535, -1021]
+dv [18396, -372]
+dv [18403, -425]
+dv [18531, -394]
+dv [18619, -389]
+dv [18426, -269]
+dv [18597, -313]
+dv [18414, -324]
+dv [18402, -261]
+dv [18472, -349]
+dv [18484, -483]
+dv [18595, -402]
+dv [18503, -353]
+dv [18502, -344]
+dv [18401, -357]
+dv [18444, -357]
+dv [18425, -437]
+dv [18496, -312]
+dv [18487, -142]
+act.py:105: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup([21, 20, 16],GPIO.OUT)
+0
+pi@raspberrypi-kompline:~/yinghualu $ python3 act.py 
+act.py:60: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(psck, GPIO.OUT, initial=0)
+dv [18401, -498]
+dv [18367, -326]
+dv [18494, -391]
+dv [18440, -276]
+dv [18449, -247]
+dv [18561, -262]
+dv [18410, -260]
+dv [18470, -144]
+dv [18494, -282]
+dv [18580, -70]
+dv [18453, -112]
+dv [18546, 113]
+dv [18399, 191]
+dv [18436, -26]
+dv [18383, -142]
+dv [18442, -181]
+dv [18516, -71]
+dv [18384, -379]
+dv [18511, -358]
+dv [18470, 24]
+dv [18510, -50]
+dv [18603, -66]
+dv [18495, -125]
+dv [18490, 940]
+dv [18404, 278]
+dv [18495, -290]
+dv [18562, -31]
+dv [18435, -110]
+dv [18565, -234]
+dv [18399, -330]
+dv [18592, -482]
+dv [18502, -625]
+dv [18497, -549]
+dv [18444, -473]
+dv [18396, -894]
+dv [18493, -361]
+dv [18556, -433]
+dv [18371, -54]
+dv [18357, -189]
+dv [18492, -591]
+dv [18523, -450]
+dv [18456, -296]
+dv [18411, -316]
+dv [18418, -283]
+dv [18522, -83]
+dv [18369, -255]
+dv [18429, -174]
+dv [18421, 159]
+dv [18455, 398]
+dv [18336, 13]
+act.py:105: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup([21, 20, 16],GPIO.OUT)
+0
+pi@raspberrypi-kompline:~/yinghualu $ emacs act.py 
+pi@raspberrypi-kompline:~/yinghualu $ emacs act.py 
+pi@raspberrypi-kompline:~/yinghualu $ python3 act.py 
+act.py:60: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(psck, GPIO.OUT, initial=0)
+[18372, -337]
+[18415, -391]
+[18437, -459]
+[18425, -329]
+[18443, -302]
+[18379, -254]
+[18369, -425]
+[18454, -325]
+^X^CTraceback (most recent call last):
+  File "act.py", line 94, in <module>
+    time.sleep(1)
+KeyboardInterrupt
+pi@raspberrypi-kompline:~/yinghualu $ emacs act.py 
+pi@raspberrypi-kompline:~/yinghualu $ python3 act.py 
+act.py:60: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(psck, GPIO.OUT, initial=0)
+[18384]
+[18426]
+[18392]
+[18515]
+[18353]
+[18548]
+[18454]
+[18413]
+[18505]
+[18430]
+[18493]
+[18539]
+[18374]
+[18407]
+[18462]
+[18509]
+[18305]
+[18522]
+[18513]
+[18489]
+[18461]
+[18503]
+[18472]
+[18456]
+[18316]
+[18416]
+[18464]
+[18471]
+[18443]
+[18366]
+[18350]
+[18444]
+[18495]
+[18485]
+[18405]
+[18422]
+[18430]
+[18519]
+[18604]
+[18436]
+[18309]
+[18559]
+[18517]
+[18467]
+[18484]
+[18486]
+[18411]
+[18567]
+[18515]
+[18401]
+act.py:107: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup([21, 20, 16],GPIO.OUT)
+0
+pi@raspberrypi-kompline:~/yinghualu $ emacs act.py 
+pi@raspberrypi-kompline:~/yinghualu $ python3 act.py 
+act.py:60: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(psck, GPIO.OUT, initial=0)
+[18488]
+[18494]
+[18460]
+[18364]
+[18392]
+[18337]
+[18414]
+[18382]
+[18454]
+[18474]
+[18332]
+[18330]
+[18398]
+[18423]
+[18452]
+[18389]
+[18493]
+[18358]
+[18380]
+[18561]
+[18417]
+[18548]
+[18468]
+[18404]
+[18399]
+[18342]
+[18383]
+[18401]
+[18523]
+[18357]
+[18421]
+[18392]
+[18304]
+[18435]
+[18444]
+[18516]
+[18281]
+[18330]
+[18360]
+[18492]
+[18375]
+[18360]
+[18526]
+[18430]
+[18455]
+[18321]
+[18447]
+[18387]
+[18369]
+[18478]
+act.py:107: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup([21, 20, 16],GPIO.OUT)
+0
+pi@raspberrypi-kompline:~/yinghualu $ emacs act.py 
+pi@raspberrypi-kompline:~/yinghualu $ python3 act.py 
+  File "act.py", line 90
+    w = SerialMeter(2, [3，4])
+                          ^
+SyntaxError: invalid character in identifier
+pi@raspberrypi-kompline:~/yinghualu $ emacs act.py 
+pi@raspberrypi-kompline:~/yinghualu $ python3 act.py 
+act.py:60: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(psck, GPIO.OUT, initial=0)
+[18478, 21943]
+[18441, 22015]
+[18399, 21991]
+[18340, 21994]
+[18358, 21999]
+[18339, 21973]
+[18337, 21924]
+[18489, 21987]
+[18465, 21912]
+[18421, 21922]
+[18352, 22028]
+[18339, 21960]
+[18442, 21976]
+[18308, 21973]
+[18395, 21904]
+[18388, 21981]
+[18473, 21851]
+[18391, 22013]
+[18417, 21790]
+[18297, 21977]
+act.py:107: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup([21, 20, 16],GPIO.OUT)
+0
+pi@raspberrypi-kompline:~/yinghualu $ python3 act.py 
+act.py:60: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(psck, GPIO.OUT, initial=0)
+[8388607, 22036]
+[8388607, 22081]
+[8388607, 21952]
+[8388607, 22016]
+[8388607, 22072]
+[8388607, 21864]
+[8388607, 21983]
+[8388607, 22011]
+[8388607, 21974]
+[8388607, 21903]
+[8388607, 21936]
+[8388607, 21947]
+[8388607, 22037]
+[8388607, 22078]
+[8388607, 21982]
+[8388607, 22092]
+[8388607, 22078]
+[8388607, 22130]
+[8388607, 21958]
+[8388607, 21983]
+act.py:107: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup([21, 20, 16],GPIO.OUT)
+0
+pi@raspberrypi-kompline:~/yinghualu $ python3 act.py 
+act.py:60: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(psck, GPIO.OUT, initial=0)
+[18537, 22067]
+[18495, 22088]
+[18657, 22003]
+[18541, 21988]
+[18588, 21971]
+[18667, 22119]
+[18457, 22091]
+[18510, 22096]
+[18498, 22037]
+[18511, 21947]
+[18504, 21981]
+[18625, 22028]
+[18651, 21978]
+[18642, 22041]
+[18560, 22003]
+[18609, 22066]
+[18596, 21986]
+[18429, 21854]
+[18525, 21968]
+[18584, 22055]
+act.py:107: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup([21, 20, 16],GPIO.OUT)
+0
+pi@raspberrypi-kompline:~/yinghualu $ python3 act.py 
+act.py:60: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(psck, GPIO.OUT, initial=0)
+[18583, 22071]
+[18418, 22058]
+[18512, 22091]
+[18545, 22033]
+[18420, 21939]
+[18549, 22155]
+[18481, 22033]
+[18658, 21972]
+[18577, 21987]
+[18596, 22041]
+[18446, 22049]
+[18561, 21977]
+[18560, 22052]
+[18591, 21999]
+[18604, 22030]
+[18641, 21958]
+[18527, 21973]
+[18588, 22021]
+[18620, 22058]
+[18482, 22049]
+act.py:107: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup([21, 20, 16],GPIO.OUT)
+0
+pi@raspberrypi-kompline:~/yinghualu $ python3 act.py 
+act.py:60: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(psck, GPIO.OUT, initial=0)
+[18597, 21993]
+[18690, 22082]
+[18668, 22092]
+[18551, 22069]
+[18591, 21884]
+[18594, 22110]
+[18613, 22011]
+[18685, 22065]
+[18605, 22151]
+[18663, 22036]
+[18645, 22143]
+[18640, 22061]
+[18529, 22112]
+[18573, 22069]
+[18581, 22011]
+[18581, 22045]
+[18578, 21930]
+[18563, 22138]
+[18623, 22235]
+[18668, 22018]
+act.py:107: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup([21, 20, 16],GPIO.OUT)
+0
+pi@raspberrypi-kompline:~/yinghualu $ python3 act.py 
+act.py:60: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(psck, GPIO.OUT, initial=0)
+[18658, 22072]
+[18583, 22127]
+[18501, 22048]
+[18560, 22125]
+[18542, 22027]
+[18496, 22056]
+[18654, 22104]
+[18585, 22050]
+[18562, 22124]
+[18604, 21999]
+[18705, 22068]
+[18635, 22027]
+[18744, 21988]
+[18718, 21982]
+[18708, 22041]
+[18521, 22051]
+[18603, 22121]
+[18642, 22004]
+[18570, 22171]
+[18661, 22125]
+act.py:107: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup([21, 20, 16],GPIO.OUT)
+0
+pi@raspberrypi-kompline:~/yinghualu $ python3 act.py 
+act.py:60: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(psck, GPIO.OUT, initial=0)
+[18604, 22125]
+[18693, 21975]
+[18593, 22113]
+[18555, 21999]
+[18513, 22136]
+[18751, 22057]
+[18636, 22040]
+[18526, 22090]
+[18615, 22140]
+[18730, 22102]
+[18707, 22129]
+[18593, 22178]
+[18608, 22123]
+[18627, 21996]
+[18614, 22098]
+[18671, 22019]
+[18696, 21915]
+[18623, 22005]
+[18605, 22149]
+[18537, 22082]
+act.py:107: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup([21, 20, 16],GPIO.OUT)
+0
+pi@raspberrypi-kompline:~/yinghualu $ emacs act.py 
+pi@raspberrypi-kompline:~/yinghualu $ python3 act.py 
+act.py:60: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(psck, GPIO.OUT, initial=0)
+85
+[18698, 22092]
+[18629, 22074]
+[18650, 22037]
+[18679, 22059]
+[18607, 22170]
+[18619, 22076]
+[18692, 22105]
+[18703, 22061]
+[18691, 22087]
+[18638, 22294]
+[18727, 22123]
+[18617, 22093]
+[18579, 22117]
+[18686, 22145]
+[18535, 22246]
+[18597, 22141]
+[18584, 22103]
+[18749, 22018]
+[18608, 22020]
+[18682, 22111]
+act.py:107: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup([21, 20, 16],GPIO.OUT)
+0
+pi@raspberrypi-kompline:~/yinghualu $ emacs act.py 
+pi@raspberrypi-kompline:~/yinghualu $ python3 act.py 
+act.py:60: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(psck, GPIO.OUT, initial=0)
+85
+[8388607, 22040]
+[8388607, 22066]
+[8388607, 22114]
+[8388607, 22112]
+[8388607, 22017]
+[8388607, 21958]
+[8388607, 21967]
+[8388607, 21953]
+[8388607, 22077]
+[8388607, 22102]
+[8388607, 22091]
+[8388607, 22086]
+[8388607, 22154]
+[8388607, 22120]
+[8388607, 22119]
+[8388607, 22075]
+[8388607, 22061]
+[8388607, 21998]
+[8388607, 22078]
+[8388607, 22063]
+act.py:107: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup([21, 20, 16],GPIO.OUT)
+0
+pi@raspberrypi-kompline:~/yinghualu $ python3 act.py 
+act.py:60: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(psck, GPIO.OUT, initial=0)
+85
+[8388607, 22004]
+[8388607, 21980]
+[8388607, 22150]
+[8388607, 22076]
+[8388607, 22152]
+[8388607, 21963]
+[8388607, 22192]
+[8388607, 22140]
+[8388607, 22077]
+[8388607, 22092]
+[8388607, 22147]
+[8388607, 22112]
+[8388607, 22170]
+[8388607, 22069]
+[8388607, 22081]
+[8388607, 22127]
+[8388607, 22126]
+[8388607, 22106]
+[8388607, 22026]
+[8388607, 22129]
+act.py:107: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup([21, 20, 16],GPIO.OUT)
+0
+pi@raspberrypi-kompline:~/yinghualu $ python3 act.py 
+act.py:60: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(psck, GPIO.OUT, initial=0)
+85
+[18984, 22117]
+[18928, 22141]
+[18935, 22046]
+[18872, 22110]
+[18764, 22113]
+[18885, 22111]
+[18907, 21966]
+[19008, 22041]
+[18926, 22111]
+[18877, 22174]
+[18865, 22223]
+[18941, 22121]
+[18852, 22093]
+[18840, 22093]
+[18944, 22267]
+[18783, 22153]
+[18864, 22124]
+[18928, 22043]
+[18905, 22110]
+[18835, 22217]
+act.py:107: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup([21, 20, 16],GPIO.OUT)
+0
+pi@raspberrypi-kompline:~/yinghualu $ emacs act.py 
+pi@raspberrypi-kompline:~/yinghualu $ python3 act.py 
+act.py:60: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(psck, GPIO.OUT, initial=0)
+90
+[18675, 22133]
+[18837, 22139]
+[18908, 22106]
+[18819, 22301]
+[18782, 22094]
+[18854, 22182]
+[18788, 22149]
+[18917, 22079]
+[18905, 22113]
+[18739, 22162]
+[18854, 22192]
+[18891, 22151]
+[18827, 22142]
+[18810, 22243]
+[18855, 22105]
+[18928, 22107]
+[18853, 22193]
+[18782, 22179]
+[18809, 22237]
+[18752, 22235]
+act.py:107: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup([21, 20, 16],GPIO.OUT)
+0
+pi@raspberrypi-kompline:~/yinghualu $ python3 act.py 
+act.py:60: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(psck, GPIO.OUT, initial=0)
+90
+[18688, 22281]
+[18656, 22166]
+[18666, 22198]
+[18604, 22133]
+[18654, 22172]
+[18681, 22151]
+[18690, 22116]
+[18754, 22180]
+[18614, 22163]
+[18640, 22278]
+[18657, 22220]
+[18732, 22123]
+[18690, 22071]
+[18598, 22163]
+[18654, 22208]
+[18603, 22172]
+[18810, 22095]
+[18687, 22150]
+[18641, 22199]
+[18634, 22074]
+act.py:107: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup([21, 20, 16],GPIO.OUT)
+0
+pi@raspberrypi-kompline:~/yinghualu $ python3 act.py 
+act.py:60: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(psck, GPIO.OUT, initial=0)
+90
+[18666, 22209]
+[18606, 22217]
+[18665, 22151]
+[18606, 22280]
+[18729, 22176]
+[18569, 22235]
+[18619, 22144]
+[18573, 22189]
+[18575, 22036]
+[18693, 22053]
+[18558, 22063]
+[18670, 22097]
+[18582, 22254]
+[18666, 22189]
+[18626, 22122]
+[18573, 22151]
+[18838, 22039]
+[18603, 22180]
+[18739, 22123]
+[18671, 22171]
+act.py:107: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup([21, 20, 16],GPIO.OUT)
+0
+pi@raspberrypi-kompline:~/yinghualu $ python3 act.py 
+act.py:60: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(psck, GPIO.OUT, initial=0)
+90
+[18602, 22171]
+[18523, 22150]
+[18615, 22097]
+[18609, 22141]
+[18667, 22178]
+[18712, 22217]
+[18809, 22212]
+[18659, 22088]
+[18572, 22096]
+[18558, 22125]
+[18754, 22102]
+[18676, 22045]
+[18693, 22143]
+[18676, 22111]
+[18666, 22143]
+[18598, 22233]
+[18596, 22104]
+[18664, 22076]
+[18736, 22221]
+[18628, 22116]
+act.py:107: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup([21, 20, 16],GPIO.OUT)
+0
+pi@raspberrypi-kompline:~/yinghualu $ emacs act.py 
+pi@raspberrypi-kompline:~/yinghualu $ python3 act.py 
+act.py:60: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(psck, GPIO.OUT, initial=0)
+80
+[18565, 22071]
+[18623, 22221]
+[18662, 22135]
+[18532, 22217]
+[18568, 22124]
+[18581, 22243]
+[18489, 22146]
+[18521, 22157]
+[18511, 22218]
+[18688, 22130]
+[18634, 22239]
+[18695, 22279]
+[18594, 22052]
+[18613, 22169]
+[18618, 22281]
+[18627, 22129]
+[18604, 22175]
+[18613, 22185]
+[18566, 22230]
+[18566, 22159]
+act.py:107: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup([21, 20, 16],GPIO.OUT)
+0
+pi@raspberrypi-kompline:~/yinghualu $ emacs act.py 
+pi@raspberrypi-kompline:~/yinghualu $ python3 act.py 
+act.py:60: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(psck, GPIO.OUT, initial=0)
+70
+[18557, 22218]
+[18456, 22157]
+[18530, 22133]
+[18511, 22113]
+[18547, 22292]
+[18520, 22151]
+[18542, 22109]
+[18479, 22167]
+[18449, 22222]
+[18567, 22137]
+[18528, 22129]
+[18517, 22168]
+[18591, 22231]
+[18567, 22141]
+[18528, 22249]
+[18552, 22169]
+[18416, 22098]
+[18498, 22176]
+[18419, 22220]
+[18533, 22250]
+act.py:107: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup([21, 20, 16],GPIO.OUT)
+0
+pi@raspberrypi-kompline:~/yinghualu $ python3 act.py 
+act.py:60: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(psck, GPIO.OUT, initial=0)
+70
+[18569, 22120]
+[18489, 22060]
+[18587, 22062]
+[18519, 22215]
+[18511, 22173]
+[18480, 22102]
+[18437, 22115]
+[18690, 22186]
+[18675, 22106]
+[18478, 22058]
+[18564, 22111]
+[18595, 22157]
+[18619, 22064]
+[18631, 22150]
+[18689, 22206]
+[18551, 22141]
+[18690, 22170]
+[18503, 22105]
+[18564, 21977]
+[18722, 22104]
+act.py:107: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup([21, 20, 16],GPIO.OUT)
+0
+pi@raspberrypi-kompline:~/yinghualu $ python3 act.py 
+act.py:60: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(psck, GPIO.OUT, initial=0)
+70
+[18760, 22067]
+[18830, 22006]
+[18794, 22002]
+[18856, 22015]
+[18771, 22043]
+[18759, 21997]
+[18783, 22215]
+[18730, 22044]
+[18644, 21992]
+[18672, 22092]
+[18692, 22097]
+[18614, 22015]
+[18775, 22049]
+[18711, 22050]
+[18696, 21955]
+[18726, 22109]
+[18625, 22051]
+[18672, 22032]
+[18700, 22111]
+[18680, 22070]
+act.py:107: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup([21, 20, 16],GPIO.OUT)
+0
+pi@raspberrypi-kompline:~/yinghualu $ emacs act.py 
+pi@raspberrypi-kompline:~/yinghualu $ python3 act.py 
+act.py:60: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(psck, GPIO.OUT, initial=0)
+50
+[18690, 22026]
+[18707, 22019]
+[18609, 21997]
+[18635, 22083]
+[18710, 22055]
+[18696, 21989]
+[18578, 21958]
+[18560, 22017]
+[18639, 21979]
+[18642, 21985]
+[18549, 22060]
+[18771, 22147]
+[18686, 22025]
+[18605, 22016]
+[18686, 22000]
+[18609, 22068]
+[18611, 21960]
+[18613, 22034]
+[18658, 22054]
+[18587, 22076]
+act.py:107: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup([21, 20, 16],GPIO.OUT)
+0
+pi@raspberrypi-kompline:~/yinghualu $ cd
+pi@raspberrypi-kompline:~ $ git
+-bash: git: command not found
+pi@raspberrypi-kompline:~ $ cd
+pi@raspberrypi-kompline:~ $ exit
+logout
+Connection to 192.168.1.104 closed.
+wldeMacBook-Pro:~ wlniu$ git
+usage: git [--version] [--help] [-C <path>] [-c <name>=<value>]
+           [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]
+           [-p | --paginate | --no-pager] [--no-replace-objects] [--bare]
+           [--git-dir=<path>] [--work-tree=<path>] [--namespace=<name>]
+           <command> [<args>]
+
+These are common Git commands used in various situations:
+
+start a working area (see also: git help tutorial)
+   clone      Clone a repository into a new directory
+   init       Create an empty Git repository or reinitialize an existing one
+
+work on the current change (see also: git help everyday)
+   add        Add file contents to the index
+   mv         Move or rename a file, a directory, or a symlink
+   reset      Reset current HEAD to the specified state
+   rm         Remove files from the working tree and from the index
+
+examine the history and state (see also: git help revisions)
+   bisect     Use binary search to find the commit that introduced a bug
+   grep       Print lines matching a pattern
+   log        Show commit logs
+   show       Show various types of objects
+   status     Show the working tree status
+
+grow, mark and tweak your common history
+   branch     List, create, or delete branches
+   checkout   Switch branches or restore working tree files
+   commit     Record changes to the repository
+   diff       Show changes between commits, commit and working tree, etc
+   merge      Join two or more development histories together
+   rebase     Reapply commits on top of another base tip
+   tag        Create, list, delete or verify a tag object signed with GPG
+
+collaborate (see also: git help workflows)
+   fetch      Download objects and refs from another repository
+   pull       Fetch from and integrate with another repository or a local branch
+   push       Update remote refs along with associated objects
+
+'git help -a' and 'git help -g' list available subcommands and some
+concept guides. See 'git help <command>' or 'git help <concept>'
+to read about a specific subcommand or concept.
+wldeMacBook-Pro:~ wlniu$ ssh-keygen-trsa-C:914779981@qq.com:
+-bash: ssh-keygen-trsa-C:914779981@qq.com:: command not found
+wldeMacBook-Pro:~ wlniu$ ssh-keygen-trsa-C"914779981@qq.com"
+-bash: ssh-keygen-trsa-C914779981@qq.com: command not found
+wldeMacBook-Pro:~ wlniu$ ssh-keygen -t rsa -C"914779981@qq.com"
+Generating public/private rsa key pair.
+Enter file in which to save the key (/Users/wlniu/.ssh/id_rsa): 
+Enter passphrase (empty for no passphrase): 
+Enter same passphrase again: 
+Your identification has been saved in /Users/wlniu/.ssh/id_rsa.
+Your public key has been saved in /Users/wlniu/.ssh/id_rsa.pub.
+The key fingerprint is:
+SHA256:Xk7Jbx+XjrrqgjlhYyx8lbTMiXQViE1a6xSyIK8lEPo 914779981@qq.com
+The key's randomart image is:
++---[RSA 2048]----+
+|oo . .++oo.      |
+|o o .o==o        |
+|.. o.o*o+        |
+| .+  .oB . .     |
+| .E . ..S =      |
+|   o B . + .    .|
+|    = = . . o ...|
+|     + .   . .oo |
+|      . oo.oo... |
++----[SHA256]-----+
+wldeMacBook-Pro:~ wlniu$ 
+wldeMacBook-Pro:~ wlniu$ 914779981@QQ.com/.ssh/
+-bash: 914779981@QQ.com/.ssh/: No such file or directory
+wldeMacBook-Pro:~ wlniu$ cat ~/.ssh/id_rsa_pub
+cat: /Users/wlniu/.ssh/id_rsa_pub: No such file or directory
+wldeMacBook-Pro:~ wlniu$ cat ~/.ssh/id_rsa.pub
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC/Ozeech0YkcgE6O1PvKX0REG1OCNQ+7ggokJEMjh7bjHYou9Vte7WhzwLdc2Xxp5autp4sVeuu4Uc8kHTP8iwdyDJjPO2nEZ59DngRBnVmqkC3jYOY/BTU8PuQnK/67XSpczi+javothryzCgk6SnENT0tXXifpXCWBCvHkq94IzfzWRW11nW/N+hB+qKlhc1Ag5vGm/q7IavR02XLa29AJZ40KMvwMgy5vb9yX3vcKg6+AwXAmd80801QUW2a89m47vzk+Qg1UZFrpUvpMc3PSOnrWdleMJdVc+eZ8LI0IJJ4kxGG5NxSmYpRhMwGt8/DsTNhdNT6l+wXlRYMxkb 914779981@qq.com
+wldeMacBook-Pro:~ wlniu$ ssh -T git@github.com
+The authenticity of host 'github.com (192.30.253.113)' can't be established.
+RSA key fingerprint is SHA256:nThbg6kXUpJWGl7E1IGOCspRomTxdCARLviKw6E5SY8.
+Are you sure you want to continue connecting (yes/no)? yes
+Warning: Permanently added 'github.com,192.30.253.113' (RSA) to the list of known hosts.
+Hi smsnwl! You've successfully authenticated, but GitHub does not provide shell access.
+wldeMacBook-Pro:~ wlniu$ ls
+Applications	Documents	Library		Music		Public		kompline
+Desktop		Downloads	Movies		Pictures	VirtualBox VMs	lifeng
+wldeMacBook-Pro:~ wlniu$ cd kompline/
+wldeMacBook-Pro:kompline wlniu$ ls
+fruit									小车
+shide									翻果装置.dwg 2
+xueyaji									电脑网线水晶头接法图解_硬件外设_百度经验.webarchive
+yu
+wldeMacBook-Pro:kompline wlniu$ cd
+wldeMacBook-Pro:~ wlniu$ cd
+wldeMacBook-Pro:~ wlniu$ # git config --global user.name"smsnwl"
+wldeMacBook-Pro:~ wlniu$ # git config --global user.email"914779981@qq.com"
+wldeMacBook-Pro:~ wlniu$ # git config --global global push.default simple
+wldeMacBook-Pro:~ wlniu$ git clone git@github.com:smsnwl/ying-hua-lu.git
+Cloning into 'ying-hua-lu'...
+Warning: Permanently added the RSA host key for IP address '192.30.253.112' to the list of known hosts.
+warning: You appear to have cloned an empty repository.
+wldeMacBook-Pro:~ wlniu$ ls
+Applications	Documents	Library		Music		Public		kompline	ying-hua-lu
+Desktop		Downloads	Movies		Pictures	VirtualBox VMs	lifeng
+wldeMacBook-Pro:~ wlniu$ cd ying-hua-lu/
+wldeMacBook-Pro:ying-hua-lu wlniu$ ls
+wldeMacBook-Pro:ying-hua-lu wlniu$ ls -a
+.	..	.git
+wldeMacBook-Pro:ying-hua-lu wlniu$ ssh pi@192.168.1.104
+pi@192.168.1.104's password: 
+Linux raspberrypi-kompline 4.14.50-v7+ #1122 SMP Tue Jun 19 12:26:26 BST 2018 armv7l
+
+The programs included with the Debian GNU/Linux system are free software;
+the exact distribution terms for each program are described in the
+individual files in /usr/share/doc/*/copyright.
+
+Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent
+permitted by applicable law.
+Last login: Mon Oct  8 04:51:19 2018 from 192.168.1.100
+pi@raspberrypi-kompline:~ $ cd yinghualu/
+pi@raspberrypi-kompline:~/yinghualu $ ls
+act.py  act.py~  drivers.py  __pycache__
+pi@raspberrypi-kompline:~/yinghualu $ cd
+pi@raspberrypi-kompline:~ $ cd
+pi@raspberrypi-kompline:~ $ exit
+logout
+Connection to 192.168.1.104 closed.
+wldeMacBook-Pro:ying-hua-lu wlniu$ vi.text.txt
+-bash: vi.text.txt: command not found
+wldeMacBook-Pro:ying-hua-lu wlniu$ vi text.txt
+
+shiyan
+
+~                                                                                                                                                             
+~                                                                                                                                                             
+~                                                                                                                                                             
+~                                                                                                                                                             
+~                                                                                                                                                             
+~                                                                                                                                                             
+~                                                                                                                                                             
+~                                                                                                                                                             
+~                                                                                                                                                             
+~                                                                                                                                                             
+~                                                                                                                                                             
+~                                                                                                                                                             
+~                                                                                                                                                             
+~                                                                                                                                                             
+~                                                                                                                                                             
+~                                                                                                                                                             
+~                                                                                                                                                             
+~                                                                                                                                                             
+~                                                                                                                                                             
+~                                                                                                                                                             
+~                                                                                                                                                             
+~                                                                                                                                                             
+~                                                                                                                                                             
+~                                                                                                                                                             
+~                                                                                                                                                             
+~                                                                                                                                                             
+~                                                                                                                                                             
+~                                                                                                                                                             
+~                                                                                                                                                             
+~                                                                                                                                                             
+~                                                                                                                                                             
+~                                                                                                                                                             
+~                                                                                                                                                             
+~                                                                                                                                                             
+~                                                                                                                                                             
+~                                                                                                                                                             
+~                                                                                                                                                             
+~                                                                                                                                                             
+~                                                                                                                                                             
+~                                                                                                                                                             
+~                                                                                                                                                             
+~                                                                                                                                                             
+~                                                                                                                                                             
+~                                                                                                                                                             
+~                                                                                                                                                             
+~                                                                                                                                                             
+
